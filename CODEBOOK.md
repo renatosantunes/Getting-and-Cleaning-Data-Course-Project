@@ -4,13 +4,13 @@
 
 2) merging the train and test datasets with rbind function
     body_acc_x = body_acc_x_test + body_acc_x_train
-    same for body_acc_y and body_acc_z
+    (same for body_acc_y and body_acc_z)
     
     body_gyro_x = body_gyro_x_test + body_gyro_x_train
-    same for body_gyro_y and body_gyro_z
+    (same for body_gyro_y and body_gyro_z)
     
     total_acc_x = total_acc_x_test + total_acc_x_train
-    same for total_acc_y and total_acc_z
+    (same for total_acc_y and total_acc_z)
     
     subject = subject_test + subject_train
 
